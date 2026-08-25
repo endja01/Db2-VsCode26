@@ -16,9 +16,7 @@
                     "properties": {
                         "port": 1443,
                         "rejectUnauthorized": false,
-                        "protocol": "https",
-                        "user": "PROD020",
-                        "password": "idug2026"
+                        "protocol": "https"
                     },
                     "secure": []
                 },
@@ -71,7 +69,7 @@
                         "changeSetValues": [
                             "-- DDL changes for a table with dependent objects.",
                             "-- Note: Replace CHANGEME with your database name.",
-                            "ALDB * dbintvxx",
+                            "ALDB * dbintxx",
                             "DBCR * endja01",
                             "TSCR * endja01",
                             "TBCR * int0xx",
